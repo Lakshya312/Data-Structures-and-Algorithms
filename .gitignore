@@ -1,1 +1,2 @@
-downloads/
+generate_readme.py
+import_leetcode_submissions.py
