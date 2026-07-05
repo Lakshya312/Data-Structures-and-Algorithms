@@ -1,0 +1,475 @@
+{
+  "0018-4Sum": {
+    "id": "0018",
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "slug": "4sum"
+  },
+  "0015-3Sum": {
+    "id": "0015",
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "slug": "3sum"
+  },
+  "0039-Combination-Sum": {
+    "id": "0039",
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ],
+    "slug": "combination-sum"
+  },
+  "0037-Sudoku-Solver": {
+    "id": "0037",
+    "title": "Sudoku Solver",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix"
+    ],
+    "slug": "sudoku-solver"
+  },
+  "0051-N-Queens": {
+    "id": "0051",
+    "title": "N-Queens",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ],
+    "slug": "n-queens"
+  },
+  "0047-Permutations-II": {
+    "id": "0047",
+    "title": "Permutations II",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ],
+    "slug": "permutations-ii"
+  },
+  "0046-Permutations": {
+    "id": "0046",
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ],
+    "slug": "permutations"
+  },
+  "0090-Subsets-II": {
+    "id": "0090",
+    "title": "Subsets II",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "slug": "subsets-ii"
+  },
+  "0078-Subsets": {
+    "id": "0078",
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "slug": "subsets"
+  },
+  "0050-Pow-x-n": {
+    "id": "0050",
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "tags": [
+      "Math",
+      "Recursion"
+    ],
+    "slug": "powx-n"
+  },
+  "0704-Binary-Search": {
+    "id": "0704",
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "slug": "binary-search"
+  },
+  "0509-Fibonacci-Number": {
+    "id": "0509",
+    "title": "Fibonacci Number",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "slug": "fibonacci-number"
+  },
+  "0930-Binary-Subarrays-With-Sum": {
+    "id": "0930",
+    "title": "Binary Subarrays With Sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "slug": "binary-subarrays-with-sum"
+  },
+  "0525-Contiguous-Array": {
+    "id": "0525",
+    "title": "Contiguous Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "slug": "contiguous-array"
+  },
+  "0182-Duplicate-Emails": {
+    "id": "0182",
+    "title": "Duplicate Emails",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "slug": "duplicate-emails"
+  },
+  "0974-Subarray-Sums-Divisible-by-K": {
+    "id": "0974",
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "slug": "subarray-sums-divisible-by-k"
+  },
+  "0523-Continuous-Subarray-Sum": {
+    "id": "0523",
+    "title": "Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Prefix Sum"
+    ],
+    "slug": "continuous-subarray-sum"
+  },
+  "0560-Subarray-Sum-Equals-K": {
+    "id": "0560",
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "slug": "subarray-sum-equals-k"
+  },
+  "0287-Find-the-Duplicate-Number": {
+    "id": "0287",
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation"
+    ],
+    "slug": "find-the-duplicate-number"
+  },
+  "2965-Find-Missing-and-Repeated-Values": {
+    "id": "2965",
+    "title": "Find Missing and Repeated Values",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Matrix"
+    ],
+    "slug": "find-missing-and-repeated-values"
+  },
+  "0001-Two-Sum": {
+    "id": "0001",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ],
+    "slug": "two-sum"
+  },
+  "0054-Spiral-Matrix": {
+    "id": "0054",
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "slug": "spiral-matrix"
+  },
+  "0240-Search-a-2D-Matrix-II": {
+    "id": "0240",
+    "title": "Search a 2D Matrix II",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ],
+    "slug": "search-a-2d-matrix-ii"
+  },
+  "0074-Search-a-2D-Matrix": {
+    "id": "0074",
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "slug": "search-a-2d-matrix"
+  },
+  "0009-Palindrome-Number": {
+    "id": "0009",
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "tags": [
+      "Math"
+    ],
+    "slug": "palindrome-number"
+  },
+  "0007-Reverse-Integer": {
+    "id": "0007",
+    "title": "Reverse Integer",
+    "difficulty": "Medium",
+    "tags": [
+      "Math"
+    ],
+    "slug": "reverse-integer"
+  },
+  "0204-Count-Primes": {
+    "id": "0204",
+    "title": "Count Primes",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory"
+    ],
+    "slug": "count-primes"
+  },
+  "0443-String-Compression": {
+    "id": "0443",
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "slug": "string-compression"
+  },
+  "0151-Reverse-Words-in-a-String": {
+    "id": "0151",
+    "title": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "slug": "reverse-words-in-a-string"
+  },
+  "0567-Permutation-in-String": {
+    "id": "0567",
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "slug": "permutation-in-string"
+  },
+  "1910-Remove-All-Occurrences-of-a-Substring": {
+    "id": "1910",
+    "title": "Remove All Occurrences of a Substring",
+    "difficulty": "Medium",
+    "tags": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "slug": "remove-all-occurrences-of-a-substring"
+  },
+  "0125-Valid-Palindrome": {
+    "id": "0125",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "slug": "valid-palindrome"
+  },
+  "0344-Reverse-String": {
+    "id": "0344",
+    "title": "Reverse String",
+    "difficulty": "Easy",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "slug": "reverse-string"
+  },
+  "0031-Next-Permutation": {
+    "id": "0031",
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "slug": "next-permutation"
+  },
+  "0088-Merge-Sorted-Array": {
+    "id": "0088",
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "slug": "merge-sorted-array"
+  },
+  "0075-Sort-Colors": {
+    "id": "0075",
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "slug": "sort-colors"
+  },
+  "0540-Single-Element-in-a-Sorted-Array": {
+    "id": "0540",
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "slug": "single-element-in-a-sorted-array"
+  },
+  "0852-Peak-Index-in-a-Mountain-Array": {
+    "id": "0852",
+    "title": "Peak Index in a Mountain Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "slug": "peak-index-in-a-mountain-array"
+  },
+  "0033-Search-in-Rotated-Sorted-Array": {
+    "id": "0033",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "slug": "search-in-rotated-sorted-array"
+  },
+  "0238-Product-of-Array-Except-Self": {
+    "id": "0238",
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "slug": "product-of-array-except-self"
+  },
+  "0011-Container-With-Most-Water": {
+    "id": "0011",
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ],
+    "slug": "container-with-most-water"
+  },
+  "0121-Best-Time-to-Buy-and-Sell-Stock": {
+    "id": "0121",
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "slug": "best-time-to-buy-and-sell-stock"
+  },
+  "0169-Majority-Element": {
+    "id": "0169",
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "slug": "majority-element"
+  },
+  "0053-Maximum-Subarray": {
+    "id": "0053",
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "slug": "maximum-subarray"
+  }
+}
