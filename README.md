@@ -84,3 +84,27 @@ Each folder is named `<problem-number>-<Problem-Title>` and contains:
 <div align="center">
 Made with ⚡ and a lot of debugging · Last updated automatically
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+<!---LeetCode Topics End-->
