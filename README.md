@@ -90,6 +90,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Depth-First Search
 |  |
@@ -107,4 +108,8 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
