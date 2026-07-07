@@ -112,4 +112,16 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
