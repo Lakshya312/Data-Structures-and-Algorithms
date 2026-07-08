@@ -1,44 +1,33 @@
 class Solution {
 public:
-
-    bool isPalindrome(string &s, int left, int right) {
-        while (left < right) {
-            if (s[left] != s[right])
-                return false;
-            left++;
-            right--;
-        }
-        return true;
+    bool isPali(string parts) {
+        string s = parts;
+        reverse(s.begin(), s.end());
+        return s == parts;
     }
 
-    void backtrack(string &s, int start,
-                   vector<string> &curr,
-                   vector<vector<string>> &ans) {
-
-        if (start == s.size()) {
-            ans.push_back(curr);
+    void getAllParts(string s, vector<string>& partitions,
+                     vector<vector<string>>& ans) {
+        if (s.length() == 0) {
+            ans.push_back(partitions);
             return;
         }
 
-        for (int end = start; end < s.size(); end++) {
-
-            if (isPalindrome(s, start, end)) {
-
-                curr.push_back(s.substr(start, end - start + 1));
-
-                backtrack(s, end + 1, curr, ans);
-
-                curr.pop_back();
+        for (int i = 0; i < s.length(); i++) {
+            string parts = s.substr(0, i + 1);
+            if (isPali(parts)) {
+                partitions.push_back(parts);
+                getAllParts(s.substr(i + 1), partitions, ans);
+                partitions.pop_back();
             }
         }
     }
 
     vector<vector<string>> partition(string s) {
+        vector<string> partitions;
         vector<vector<string>> ans;
-        vector<string> curr;
 
-        backtrack(s, 0, curr, ans);
-
+        getAllParts(s, partitions, ans);
         return ans;
     }
 };
