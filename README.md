@@ -93,10 +93,12 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 ## Array
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -122,4 +125,20 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
