@@ -4,7 +4,7 @@
 
 ### LeetCode solutions, synced straight from the source.
 
-![Solved](https://img.shields.io/badge/Solved-44-brightgreen?style=for-the-badge) ![Language](https://img.shields.io/badge/Language-CPP-blue?style=for-the-badge) ![Auto--Synced](https://img.shields.io/badge/Auto--Synced-LeetHub-orange?style=for-the-badge)
+![Solved](https://img.shields.io/badge/Solved-47-brightgreen?style=for-the-badge) ![Language](https://img.shields.io/badge/Language-CPP-blue?style=for-the-badge) ![Auto--Synced](https://img.shields.io/badge/Auto--Synced-LeetHub-orange?style=for-the-badge)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |:---:|:---:|:---:|:---:|
-| 11 | 29 | 2 | **44** |
+| 11 | 29 | 2 | **47** |
 
 ## 🏷️ Topics Covered
 
@@ -40,6 +40,7 @@ Each folder is named `<problem-number>-<Problem-Title>` and contains:
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | Array | [Solution](0011-Container-With-Most-Water/) |
 | 0015 | [3sum](https://leetcode.com/problems/3sum/) | ⚪ Unknown | - | [Solution](0015-3sum/) |
 | 0018 | [4sum](https://leetcode.com/problems/4sum/) | ⚪ Unknown | - | [Solution](0018-4sum/) |
+| 0027 | [remove element](https://leetcode.com/problems/remove-element/) | ⚪ Unknown | - | [Solution](0027-remove-element/) |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Array | [Solution](0031-Next-Permutation/) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Array | [Solution](0033-Search-in-Rotated-Sorted-Array/) |
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | Array | [Solution](0037-Sudoku-Solver/) |
@@ -57,6 +58,7 @@ Each folder is named `<problem-number>-<Problem-Title>` and contains:
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | Array | [Solution](0090-Subsets-II/) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array | [Solution](0121-Best-Time-to-Buy-and-Sell-Stock/) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Two Pointers | [Solution](0125-Valid-Palindrome/) |
+| 0131 | [palindrome partitioning](https://leetcode.com/problems/palindrome-partitioning/) | ⚪ Unknown | - | [Solution](0131-palindrome-partitioning/) |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | Two Pointers | [Solution](0151-Reverse-Words-in-a-String/) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Array | [Solution](0169-Majority-Element/) |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | Database | [Solution](0182-Duplicate-Emails/) |
@@ -77,6 +79,7 @@ Each folder is named `<problem-number>-<Problem-Title>` and contains:
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | 🟡 Medium | Array | [Solution](0930-Binary-Subarrays-With-Sum/) |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | 🟡 Medium | Array | [Solution](0974-Subarray-Sums-Divisible-by-K/) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | 🟡 Medium | String | [Solution](1910-Remove-All-Occurrences-of-a-Substring/) |
+| 2596 | [check knight tour configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | ⚪ Unknown | - | [Solution](2596-check-knight-tour-configuration/) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Array | [Solution](2965-Find-Missing-and-Repeated-Values/) |
 
 ---
@@ -84,44 +87,3 @@ Each folder is named `<problem-number>-<Problem-Title>` and contains:
 <div align="center">
 Made with ⚡ and a lot of debugging · Last updated automatically
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
-| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
-## Depth-First Search
-|  |
-| ------- |
-| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
-## Breadth-First Search
-|  |
-| ------- |
-| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
-## Matrix
-|  |
-| ------- |
-| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
-## Simulation
-|  |
-| ------- |
-| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
-## String
-|  |
-| ------- |
-| [0131-palindrome-partitioning](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0131-palindrome-partitioning](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
-## Backtracking
-|  |
-| ------- |
-| [0131-palindrome-partitioning](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
-<!---LeetCode Topics End-->
