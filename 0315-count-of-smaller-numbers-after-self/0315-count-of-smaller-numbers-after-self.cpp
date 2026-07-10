@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<int> ans;
 
-    void merge(vector<pair<int,int>>& arr, int st, int mid, int ed) {
-        vector<pair<int,int>> temp;
+    void merge(vector<pair<int, int>>& arr, int st, int mid, int ed) {
+        vector<pair<int, int>> temp;
 
         int i = st;
         int j = mid + 1;
@@ -38,7 +38,7 @@ public:
         }
     }
 
-    void mergeSort(vector<pair<int,int>>& arr, int st, int ed) {
+    void mergeSort(vector<pair<int, int>>& arr, int st, int ed) {
         if (st >= ed)
             return;
 
@@ -55,7 +55,7 @@ public:
         int n = nums.size();
         ans.assign(n, 0);
 
-        vector<pair<int,int>> arr;
+        vector<pair<int, int>> arr;
 
         for (int i = 0; i < n; i++) {
             arr.push_back({nums[i], i});
