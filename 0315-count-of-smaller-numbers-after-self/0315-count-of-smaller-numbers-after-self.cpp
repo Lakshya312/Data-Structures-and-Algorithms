@@ -2,66 +2,63 @@ class Solution {
 public:
     vector<int> ans;
 
-    void merge(vector<pair<int, int>>& arr, int st, int mid, int ed) {
+    void merge(vector<pair<int, int>>& arr, int st, int end,
+               int mid) {
         vector<pair<int, int>> temp;
+        int count = 0, i = st, j = mid + 1;
 
-        int i = st;
-        int j = mid + 1;
-        int rightCount = 0;
-
-        while (i <= mid && j <= ed) {
-
+        while (i <= mid && j <= end) {
             if (arr[i].first <= arr[j].first) {
-                ans[arr[i].second] += rightCount;
+                ans[arr[i].second] += count;
                 temp.push_back(arr[i]);
                 i++;
             } else {
-                rightCount++;
+                count++;
                 temp.push_back(arr[j]);
                 j++;
             }
         }
 
         while (i <= mid) {
-            ans[arr[i].second] += rightCount;
+            ans[arr[i].second] += count;
             temp.push_back(arr[i]);
             i++;
         }
 
-        while (j <= ed) {
+        while (j <= end) {
             temp.push_back(arr[j]);
             j++;
         }
 
-        for (int k = 0; k < temp.size(); k++) {
-            arr[st + k] = temp[k];
+        for (int idx = 0; idx < temp.size(); idx++) {
+            arr[idx + st] = temp[idx];
         }
     }
 
-    void mergeSort(vector<pair<int, int>>& arr, int st, int ed) {
-        if (st >= ed)
-            return;
+    void CountPair(vector<pair<int, int>>& arr, int st,
+                   int end) {
+        if (st < end) {
+            int mid = st + (end - st) / 2;
 
-        int mid = st + (ed - st) / 2;
+            // left
+            CountPair(arr, st, mid);
 
-        mergeSort(arr, st, mid);
-        mergeSort(arr, mid + 1, ed);
+            // right
+            CountPair(arr, mid + 1, end);
 
-        merge(arr, st, mid, ed);
+            merge(arr, st, end, mid);
+        }
     }
 
     vector<int> countSmaller(vector<int>& nums) {
-
         int n = nums.size();
-        ans.assign(n, 0);
-
         vector<pair<int, int>> arr;
-
+        ans.assign(n, 0);
         for (int i = 0; i < n; i++) {
             arr.push_back({nums[i], i});
         }
 
-        mergeSort(arr, 0, n - 1);
+        CountPair(arr, 0, n - 1);
 
         return ans;
     }
