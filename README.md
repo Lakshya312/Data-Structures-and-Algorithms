@@ -93,6 +93,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -141,4 +142,8 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
