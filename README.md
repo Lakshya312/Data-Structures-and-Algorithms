@@ -94,6 +94,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -146,4 +147,8 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
