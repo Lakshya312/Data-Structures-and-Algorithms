@@ -98,6 +98,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 | [0169-majority-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +168,20 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
