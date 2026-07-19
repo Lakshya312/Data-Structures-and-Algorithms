@@ -93,6 +93,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
@@ -153,6 +154,7 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
