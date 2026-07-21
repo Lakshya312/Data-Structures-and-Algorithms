@@ -188,4 +188,12 @@ Made with ⚡ and a lot of debugging · Last updated automatically
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Lakshya312/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
